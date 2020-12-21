@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ManagerSystemApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ManagerSystemApplication.class, args);
+
+        System.out.println("hsdwh");SpringApplication.run(ManagerSystemApplication.class, args);
     }
 
 }
